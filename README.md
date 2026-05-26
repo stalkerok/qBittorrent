@@ -7,8 +7,6 @@
 
 [qbittorrent_5.1.4_x64.zip](https://github.com/user-attachments/files/23642082/qbittorrent_5.1.4_x64.zip)
 
-[qbittorrent_5.2.0_x64.zip](https://github.com/user-attachments/files/27323801/qbittorrent_5.2.0_x64.zip)
-
 [qbittorrent_5.2.1_x64.zip](https://github.com/user-attachments/files/28248172/qbittorrent_5.2.1_x64.zip)
 
 </details>
