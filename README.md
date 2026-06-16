@@ -9,4 +9,6 @@
 
 [qbittorrent_5.2.1_x64.zip](https://github.com/user-attachments/files/28248172/qbittorrent_5.2.1_x64.zip)
 
+[qbittorrent_5.2.2_x64.zip](https://github.com/user-attachments/files/28989227/qbittorrent_5.2.2_x64.zip)
+
 </details>
