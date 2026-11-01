@@ -102,7 +102,7 @@
     <message>
         <location filename="../gui/aboutdialog.cpp" line="74"/>
         <source>An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.</source>
-        <translation>Передовой клиент сети БитТоррент, созданный при помощи языка C++ и библиотек Qt и libtorrent-rasterbar.</translation>
+        <translation>Передовой клиент сети BitTorrent, созданный на языке C++ с использованием библиотек Qt и libtorrent-rasterbar.</translation>
     </message>
     <message>
         <location filename="../gui/aboutdialog.cpp" line="76"/>
@@ -1266,7 +1266,7 @@
     <message>
         <location filename="../gui/advancedsettings.cpp" line="959"/>
         <source>BitTorrent session shutdown timeout [-1: unlimited]</source>
-        <translation>Тайм-аут остановки сеанса БитТоррента [-1: бесконечно]</translation>
+        <translation>Тайм-аут остановки сеанса BitTorrent [-1: бесконечно]</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="984"/>
@@ -2578,7 +2578,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../base/bittorrent/sessionimpl.cpp" line="810"/>
         <source>BitTorrent session successfully finished.</source>
-        <translation>Сеанс БитТоррента успешно завершён.</translation>
+        <translation>Сеанс BitTorrent успешно завершён.</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/sessionimpl.cpp" line="812"/>
@@ -2857,7 +2857,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
     <message>
         <location filename="../base/bittorrent/sessionimpl.cpp" line="6548"/>
         <source>BitTorrent session encountered a serious error. Reason: &quot;%1&quot;</source>
-        <translation>Сеанс БитТоррента столкнулся с серьёзной ошибкой. Причина: «%1»</translation>
+        <translation>Сеанс BitTorrent столкнулся с серьёзной ошибкой. Причина: «%1»</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/sessionimpl.cpp" line="6746"/>
@@ -6369,7 +6369,7 @@ Minimum requirement: %2.</source>
     <message>
         <location filename="../gui/optionsdialog.ui" line="72"/>
         <source>BitTorrent</source>
-        <translation>БитТоррент</translation>
+        <translation>BitTorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="82"/>
@@ -6656,7 +6656,7 @@ Minimum requirement: %2.</source>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2302"/>
         <source>Use proxy for BitTorrent purposes</source>
-        <translation>Использовать прокси для работы БитТоррента</translation>
+        <translation>Использовать прокси для работы BitTorrent</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2327"/>
@@ -7849,7 +7849,7 @@ readme[0-9].txt: фильтровать «readme1.txt», «readme2.txt», но �
     <message>
         <location filename="../gui/optionsdialog.ui" line="2822"/>
         <source>Exchange peers with compatible Bittorrent clients (µTorrent, Vuze, ...)</source>
-        <translation>Обмен пирами с совместимыми клиентами БитТоррент (µTorrent, Vuze…)</translation>
+        <translation>Обмен пирами с совместимыми клиентами BitTorrent (µTorrent, Vuze…)</translation>
     </message>
     <message>
         <location filename="../gui/optionsdialog.ui" line="2825"/>
@@ -8636,7 +8636,7 @@ Check the Execution Log for errors.</source>
         <location filename="../gui/properties/peerlistwidget.cpp" line="120"/>
         <source>Peer ID Client</source>
         <comment>i.e.: Client resolved from Peer ID</comment>
-        <translation>ИД клиента</translation>
+        <translation>Peer ID клиента</translation>
     </message>
     <message>
         <location filename="../gui/properties/peerlistwidget.cpp" line="121"/>
@@ -13068,7 +13068,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/trackerlist/trackerlistmodel.cpp" line="503"/>
         <source>BT Protocol</source>
-        <translation>Протокол БТ</translation>
+        <translation>Протокол BT</translation>
     </message>
     <message>
         <location filename="../gui/trackerlist/trackerlistmodel.cpp" line="517"/>
